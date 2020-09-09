@@ -7,6 +7,6 @@ Please check the [README](https://github.com/udacity/sagemaker-deployment/tree/m
 Following is how the final web application looks like:
 ![](uploadgif.gif)  
 
-### Pre-Installation
-Python 3.x , Jupyter Notebook, Pytorch, scikit-learn, NumPy, Pandas, SciPy, matplotlib, seaborn.
+### Getting Started
+Following are the dependencies: Python 3.x , Jupyter Notebook, Sagemaker, NLTK, Pytorch, scikit-learn, NumPy, Pandas, SciPy, matplotlib, seaborn.
 
