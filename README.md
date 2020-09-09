@@ -5,5 +5,8 @@
 Please check the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on how to get started with setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).  
 
 Following is how the final web application looks like:
-![](uploadgif.gif)
+![](uploadgif.gif)  
+
+### Pre-Installation
+Python 3.x , Jupyter Notebook, Pytorch, scikit-learn, NumPy, Pandas, SciPy, matplotlib, seaborn.
 
