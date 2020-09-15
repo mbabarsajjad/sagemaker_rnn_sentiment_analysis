@@ -1,4 +1,4 @@
-## Project 1 of Udacity's Machine Learning Engineer Nanodegree Program
+## Project 1 of Udacity's Machine Learning Engineer Nanodegree Program  
 
 ### Machine Learning in Production - Deployed a Sentiment Analysis Model based on Recurrent Neural Network(RNN) and Natural Language Toolkit (NLTK)  
 
